@@ -8,7 +8,7 @@
 The primary objective of this project is to provide a documented, reproducible blueprint for a machine capable of **precise PCB fabrication** and **light metal machining (Aluminum/Brass)**, making industrial-grade precision accessible to students and educators.
 
 ## 🎯 Project Vision
-Most DIY CNCs rely on belts or V-wheels, which lack the rigidity needed for precision work. The OS-CNC-2x2 solves this by utilizing a professional-grade mechanical stack (Ball Screws + Linear Rails) while maintaining a "home-buildable" philosophy using easily sourced parts.
+Most DIY CNCs rely on belts or V-wheels, which lack the rigidity needed for precision work. The Axiom CNC solves this by utilizing a professional-grade mechanical stack (Ball Screws + Linear Rails) while maintaining a "home-buildable" philosophy using easily sourced parts.
 
 This project is intended as an educational resource for the **Prince William County / MCPS VA school district**, providing a scalable "lab-in-a-box" model for STEM students to learn mechatronics, embedded systems, and precision engineering.
 
