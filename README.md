@@ -70,7 +70,8 @@ The full BOM is currently being finalized based on the CAD design. Once complete
 ## 🤝 Contributing & Sponsorship
 Axiom CNC is 100% open source. Contributions in the form of CAD reviews, electronics optimization, or funding are welcome.
 
-**Sponsorship:** If you are a corporate entity interested in supporting local STEM innovation and workforce development in Manassas, VA, please reach out via [Your Email/LinkedIn].
+**Sponsorship:** If you are a corporate entity interested in supporting local STEM innovation and workforce development in Manassas, VA, please reach out via my [LinkedIn](https://www.linkedin.com/in/andrew-richardson-2ba138351/)
+.
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
